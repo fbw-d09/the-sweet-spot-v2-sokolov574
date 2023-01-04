@@ -1,0 +1,138 @@
+body {
+    background: url(https://pixabay.com/get/gc60b418dd465f40aebe5447ac5b75664f68c7cfb571cd992de15a8f2e4b8ba3bcd61b3b832ee51fe5c13ed55dc254f1ba37d7ce7fe944aaf67da335ed37116fcc9a3ac9ae908abff170570689ee6aef6_1920.jpg) no-repeat;
+
+}
+
+.header_foto
+{
+    height: 200px;
+    width: 100%;
+    object-fit: cover;
+}
+
+.header_foto2
+{
+    height: 200px;
+    width: 100%;
+    object-fit: cover;
+}
+
+
+.head {
+    background-color: pink;
+}
+.text_head {
+    color: white;
+}
+
+.l_croissant {
+    font-size: 40px;
+    color: #f112f1;
+    background-color: #dad8d8;
+}
+#sweet-croissant {
+    font-size: 30px;
+
+    background-color: hotpink;
+}
+
+.linquorice {
+    background-color: #ebf64d;
+}
+.linquorice:hover {  
+      color: rgb(30, 215, 240);
+
+}
+.cookie {
+    background-color: #ebf64d;
+}
+
+.eats
+{
+background-color: pink;
+}
+
+#lollipop
+{
+    float: left;
+    border: 5px solid rgb(107, 204, 231);
+}
+
+
+#floss
+{
+    float: right;
+    border: 5px solid rgb(65, 204, 229);
+}
+
+#jelly
+{
+    float: left;
+    border: rgb(199, 20, 131);
+}
+
+a img {
+    width: 125px;
+    height: 100px;
+    border-radius: 50%;
+    cursor: pointer;
+    margin: 10px;
+}
+
+.cookie:hover {
+    color: rgb(30, 215, 240);
+}
+
+h3 {
+    color: #f112f1;
+    background-color: #dad8d8;
+}
+
+h4 {
+    font-size: 20px;
+}
+h4 + ul {
+    list-style: none;
+}
+h5 {
+    text-align: center;
+    font-size: 40px;
+}
+ul {
+    background-color: rgb(30, 215, 240);
+    text-align: center;
+    padding-left: 0;
+    font-size: 25px;
+    transition: 1s;
+}
+ul:hover {
+    background-color: #ebf64d;
+}
+.tips:active {
+    background-color: pink;
+    color: #efefef;
+    border-radius: 10px;
+}
+
+
+#my {
+    text-align: center;
+    font-size: 30px;
+    text-decoration: none;  
+    transition: 1s;  
+}
+a { 
+    text-decoration: none;
+    transition: 1s;
+    color: rgb(0, 11, 128);
+
+}
+a:hover {
+  color: red;
+}
+
+
+#contact {
+    font-size: 25px;
+
+}
